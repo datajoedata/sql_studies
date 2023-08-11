@@ -129,6 +129,29 @@
 --       a) 
             SELECT id, bird_color, bird_specie, bird_age, SUBSTR(bird_specie, 1, 5) AS bird_prefix    -- It returns us the five first letters in the bird_specie column into a new column called bird_prefix 
             FROM zoo_birds; 
+
+
+
+--  . 7 - "MIN" and "MAX" ////////////        Purpose:  
+--                                            
+--                                            *Functionality* :       
+--                                             
+--  Example:  
+           
+--       a) 
+             
+              
+
+              
+
+--  . 8 - TRIM()          ////////////        Purpose:  
+--                                            
+--                                            *Functionality* :       
+--                                             
+--  Example:  
+           
+--       a) 
+             
               
 
               
