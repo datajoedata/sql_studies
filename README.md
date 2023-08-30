@@ -7,7 +7,7 @@ Repository dedicated to practice some SQL syntax
 
 -----------------------------------------------------------------------
 
-1.2 - Window Functions.sql  --------------->  
+1.2 - Window_Functions.sql  --------------->  
 -----------------------------------------------------------------------
 
 1.2.1 ROW_NUMBER(); 
@@ -28,4 +28,4 @@ Repository dedicated to practice some SQL syntax
 
 -----------------------------------------------------------------------
 
-1.3 -
+1.3 - String_Functions.sql  ---------------> 
