@@ -1,4 +1,4 @@
---   GLOSSARY:  1. INSERT INTO;
+#   GLOSSARY:  1. INSERT INTO;
 --               2. DELETE;
 --                3. DROP; 
 --                 4. DISTINCT; 
